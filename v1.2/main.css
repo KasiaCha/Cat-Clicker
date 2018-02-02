@@ -8,8 +8,12 @@ div{
 }
 body{
   box-sizing:  border-box;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Patrick Hand', cursive;
   position: relative;
+}
+.version{
+  text-align: right;
+  padding: 20px;
 }
 #container{
   width: 100%;

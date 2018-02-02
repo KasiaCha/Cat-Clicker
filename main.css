@@ -32,3 +32,7 @@ h1{
 .catclicks--box h2{
   color: lightseagreen;
 }
+.version{
+  text-align: right;
+  padding: 20px;
+}
