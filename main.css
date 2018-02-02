@@ -7,7 +7,7 @@ body{
   font-family: 'Patrick Hand', cursive;
   position: relative;
 }
-.container{
+#container{
   width: 100%;
   height: 100%;
   text-align: center;
@@ -22,13 +22,13 @@ h1{
   cursor: pointer;
   border-radius: 50%;
 }
-.catclicks--box{
+.catclicks__box{
   margin-top: 20px;
 }
-.catclicks--box h3{
+.catclicks__box h3{
   margin-bottom: 10px;
   color: deeppink;
 }
-.catclicks--box h2{
+.catclicks__box h2{
   color: lightseagreen;
 }
