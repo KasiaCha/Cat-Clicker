@@ -1,10 +1,14 @@
 *{
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
+}
+div{
+  box-sizing: border-box;
 }
 body{
   box-sizing:  border-box;
-  font-family: 'Patrick Hand', cursive;
+  font-family: 'Roboto', sans-serif;
   position: relative;
 }
 #container{
@@ -17,8 +21,7 @@ body{
 h1{
   margin-bottom: 20px;
 }
-#evilCat{
-  width: 250px;
+img{
   cursor: pointer;
   border-radius: 50%;
 }
